@@ -1,0 +1,56 @@
+.b_main {
+  padding: 150px 0 0 0;
+  display: flex;
+  justify-content: space-between;
+}
+.b_t h1 {
+  font-size: 49px;
+}
+.b_t p {
+  color: var(--Gray--2, #878787);
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.b_an {
+  text-decoration: none;
+  color: #b55d51f8;
+}
+.bannar_feedback {
+  background-color: white;
+  border-radius: 20px;
+  position: relative;
+  text-align: start;
+  display: flex;
+  bottom: 8em;
+  flex-wrap: wrap;
+  right: 2em;
+  width: 22em;
+}
+.cus_feed {
+  position: relative;
+  bottom: 30px;
+  left: 11px;
+  border: 4px solid;
+  border-color: white;
+  border-radius: 100%;
+}
+.b_f_t {
+  padding: 1px 35px;
+  margin-top: -28px 
+}
+.b_f_t h6 {
+  font-size: 13px;
+}
+.b_main2 {
+  text-align: end;
+}
+.flex_ba {
+  margin: -26px 0;
+}
+.b-p{
+  margin-top: -28px;
+  font-size: 15px;
+  padding: 1px 24px;
+}

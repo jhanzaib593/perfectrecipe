@@ -1,0 +1,18 @@
+.sub_main {
+  /* padding: 49px 125px; */
+  text-align: center;
+}
+.sub_text p {
+  color: #878787;
+}
+.sub_text {
+  /* padding: 0px 13em; */
+}
+.sub_data {
+  display: flex;
+  justify-content: center;
+  gap: 33px;
+}
+.sub_data input {
+  width: 35%;
+}

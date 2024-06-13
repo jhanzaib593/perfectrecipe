@@ -1,0 +1,51 @@
+.main_row_c{
+  padding: 1em 0;
+}
+.trend_veiw {
+  display: flex;
+  padding-top: 10px;
+  color: #b55d51f8;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.recipes_con {
+  padding: 5px 10px;
+}
+.res_main {
+  display: flex;
+  justify-content: space-between;
+}
+.res_one {
+  display: flex;
+  align-items: center;
+}
+.res_one img {
+  padding-right: 9px;
+}
+.res_sec {
+  margin: auto 0;
+  border-radius: 8px;
+  border: 1px solid var(--Gray--4, #ebebeb);
+  padding: 3px 10px;
+}
+.res_sec_icon {
+  color: #b55d51f8;
+}
+.recipes_main {
+  border-radius: 8px;
+  border: 1px solid var(--Gray--4, #ebebeb);
+  background: var(--White, #fff);
+  margin: 6px;
+}
+.recipes_main_row {
+  padding-top: 1em;
+  display: flex;
+  justify-content: space-between;
+}
+.recipes_dish {
+  border-radius: 8px 8px 0 0;
+  width: 100%;
+}
+.ant-rate {
+  color: #b55d51f8 !important;
+}
